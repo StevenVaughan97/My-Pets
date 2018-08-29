@@ -62,7 +62,7 @@ Despite already having five pets, I do wish that I had a bearded dragon like thi
 
 
 
-Considering all my current pets are mammals, I learned good ways to take care of reptiles from [here.](<http://www.reptilesmagazine.com/Care-Sheets/Lizards/Bearded-Dragon/>)
+Considering all my current pets are mammals, I learned good ways to take care of reptiles from [this website.](<http://www.reptilesmagazine.com/Care-Sheets/Lizards/Bearded-Dragon/>)
 
 ***
 
