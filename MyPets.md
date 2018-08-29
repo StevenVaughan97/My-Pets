@@ -69,4 +69,4 @@ Considering all my current pets are mammals, I learned good ways to take care of
 
 ***
 
-To return to the home page click [here.](<https://github.com/StevenVaughan97/Pets/blob/master/README.md>)
+To return to the home page click [here.](https://github.com/StevenVaughan97/My-Pets/blob/master/README.md)
